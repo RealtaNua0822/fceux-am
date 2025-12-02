@@ -5,6 +5,7 @@
 !*.inc
 !*.cpp
 !*.py
+!*.nes
 !Makefile
 !README*
 !LICENSE
